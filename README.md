@@ -9,7 +9,8 @@ C:\>
 ```
 C:\Users\Steve Wozniak>python c:\123456~1.py
 Hello, World
-```或
+```  
+或
 ```
 C:\Users\Steve Wozniak>python "c:\123456 8.py"
 Hello, World
